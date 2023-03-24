@@ -1,10 +1,3 @@
-"""
-
-  Kethelyn Corrêa Andrade RA: 124791
-  Kaylane Biazoto         RA: 124078
-
-"""
-
 # . . . . . . . . . . . . Leitura do arquivo . . . . . . . . . . . . #
 
 txt = input('Nome do arquivo: ')                     #1 
