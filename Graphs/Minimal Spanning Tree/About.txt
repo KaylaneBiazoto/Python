@@ -1,0 +1,2 @@
+Kruskal - Union-Find
+Prim - Greedy Algorithm
