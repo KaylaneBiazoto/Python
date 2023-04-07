@@ -1,5 +1,3 @@
-# Kaylane Biazoto RA: 124078, Kethelyn Corrêa Andrade RA: 124791
-
 import random
 from heapq import heappop, heappush, heapify
 from math  import inf
@@ -100,6 +98,7 @@ def dfs(u, path = [], visited = set()):
 
  path.append(u)
  visited.add(u)
+
 
  if u in g:
    for adj in g[u]:
